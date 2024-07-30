@@ -1,3 +1,2 @@
 # pancakes
-Fluffy pancakes, very good! You must try them!
-Fluffy pancakes! Delicious!
+Fluffy pancakes, very good! You must try them! This is from web Github
