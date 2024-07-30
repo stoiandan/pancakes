@@ -1,2 +1,2 @@
 # pancakes
-Pancakes receip
+Fluffy pancakes
