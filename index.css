@@ -2,4 +2,5 @@ h1.title {
     font-weight: bold;
     background-color: aqua;
     text-align: center;
+    display: block;
 }
