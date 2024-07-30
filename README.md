@@ -1,2 +1,2 @@
 # pancakes
-Fluffy pancakes
+Fluffy pancakes, very good! You must try them!
