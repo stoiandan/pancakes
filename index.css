@@ -3,4 +3,10 @@ h1.title {
     background-color: aqua;
     text-align: center;
     display: block;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+body{
+    background-color: blue;
 }
